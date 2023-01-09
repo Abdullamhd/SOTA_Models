@@ -11,6 +11,11 @@ https://github.com/clovaai/donut
 https://github.com/impira/docquery
 
 
+## Table extractor model 
+microsoft/table-transformer-detection
+https://huggingface.co/docs/transformers/model_doc/table-transformer
+
+
 
 
 
